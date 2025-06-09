@@ -1,0 +1,3 @@
+FROM n8nio/n8n:1.48.0
+
+ENV GENERIC_TIMEZONE=Asia/Taipei
